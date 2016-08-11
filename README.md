@@ -5,9 +5,9 @@ virtualenv envname
 
 source envname/bin/activate
 
-git clone
+git clone https://github.com/moisesdelacruz/tutorialDjangoRestFramework.git
 
-cd
+cd tutorialDjangoRestFramework
 
 pip install -r requirements.txt
 
